@@ -2,7 +2,9 @@
 
 Will be updating as im building the project on a weekly basis.
 
-![ this is alt ]("./assets/imgs/readmeImg.jpg" Duhh)
+![ this is alt ](./assets/imgs/readmeImg.jpg "Duhh")
+
+
 
 week 1 :
   * so the goal is to build basic functionality of grouping the images based on the facial similarities
