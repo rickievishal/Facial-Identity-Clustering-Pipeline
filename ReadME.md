@@ -1,8 +1,13 @@
-#CV pipepline for clustering people from multiple frames.
+# CV pipepline for clustering people from multiple frames.
 
-Will be updating as im building the project.
+Will be updating as im building the project on a weekly basis.
+("https://github.com/rickievishal/Facial-Identity-Clustering-Pipeline/blob/main/assets/imgs/readmeImg.jpg?raw=true" Duhh)
+
+week 1 :
+  * so the goal is to build basic functionality of grouping the images based on the facial similarities
+  * made the face detection and resizing part and the rest is a work on progress
+  * i have my first review next week though.
+
+### This a mini project that i'm gonna build this semester (6th 2026)
 
 
-###This a mini project that i'm gonna build this semester (6th 2026)
-
-# Facial-Identity-Clustering-Pipeline
