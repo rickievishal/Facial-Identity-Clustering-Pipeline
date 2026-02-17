@@ -8,7 +8,7 @@ import shutil
 IMAGE_FOLDER = "../data/input-frames/"
 CROP_FOLDER = "../data/output-detected-faces"
 TARGET_SIZE = (256,256)
-OUTPUT_FOLDER = "../data/goups"
+OUTPUT_FOLDER = "../data/groups"
 
 detector = FaceDetector(device=-1)
 
